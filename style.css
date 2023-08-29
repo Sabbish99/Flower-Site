@@ -110,6 +110,55 @@ header h1 {
 
 
 
+/*-----------------------
+-------------------------
+------------------ extra section latest flowers -----------------------------
+------------------------
+------------------------*/
+.latest-div-1 {
+    background-color: #ffe2f0;
+    padding: 100px 78px 0px 78px;
+    box-shadow: 1px 1px 10px;
+    border-radius: 20px;
+
+
+}
+
+.latest-div-1 img {
+    width: 200px;
+
+}
+
+.latest-div-2 {
+    background-color: #c4ddff;
+    padding: 100px 78px 0px 78px;
+    box-shadow: 1px 1px 10px;
+    border-radius: 20px;
+
+
+}
+
+.latest-div-2 img {
+    width: 200px;
+
+}
+
+.latest-div-3 {
+    background-color: #ffeaca;
+    padding: 100px 78px 0px 78px;
+    box-shadow: 1px 1px 10px;
+    border-radius: 20px;
+
+
+}
+
+.latest-div-3 img {
+    width: 200px;
+
+}
+
+
+
 /*-----------------------------
 -
 ------------------------------
