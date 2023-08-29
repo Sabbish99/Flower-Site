@@ -1,5 +1,211 @@
 body {
+    margin: 0px;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+
+.black-color {
+    color: #111010;
+}
+
+/*----------------------------------------------
+-----------------------------------------------------
+----------------------------- header section-----------------------------------------------------
+----------------------------------------------
+-------------------------------------------------------- */
+header {
+    background-color: #fcdbe2;
+
+}
+
+.semi-header {
+
+    display: flex;
+    align-items: center;
+    margin: 0px 240px;
+}
+
+header h1 {
+    font-size: 70px;
+}
+
+.header-image {
+    width: 500px;
+}
+
+.btn-1 {
+    color: white;
+    border: none;
+    background-color: #E55473;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 20px 45px;
+}
+
+.half-width-left {
+    width: 50%;
+
+    padding: 20px;
+}
+
+.half-width-right {
+    width: 50%;
+
+    display: flex;
+    justify-content: center;
+}
+
+/*-----------------------------------
+------------------------------
+--------------------- our feature program-------------------------
+---------------------------
+---------------------------------- */
+.our-feature-flower-main-section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.our-feature-flower {
+    display: flex;
+    justify-content: center;
+    margin: 30px 240px;
+    gap: 30px;
+}
+
+.feature-div-1 {
+    background-color: #ffe2f0;
+    border-radius: 300px 300px 0px 0px;
+    padding: 100px 78px 0px 78px;
+
+
+}
+
+.feature-div-1 img {
+    width: 200px;
+
+}
+
+.feature-div-2 {
+    background-color: #e6feff;
+    border-radius: 300px 300px 0px 0px;
+    padding: 100px 78px 0px 78px;
+}
+
+.feature-div-2 img {
+    width: 200px;
+}
+
+.feature-div-3 {
+    background-color: #fff0f7;
+    border-radius: 300px 300px 0px 0px;
+    padding: 100px 78px 0px 78px;
+}
+
+.feature-div-3 img {
+    width: 200px;
+}
+
+
+
+
+
+/*-----------------------------
+-
+------------------------------
+---------------------- hot deals--------------------------
+-----------------------------
+---------------------------- */
+
+.hot-deals {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffe3e9;
+}
+
+.hot-deals-info {
+    text-align: center;
+    padding-right: 200px;
+
+}
+
+
+
+
+
+
+
+/*-----------------------------
+------------------------- instagram sections---------------------------------
+----------------------------
+-------------------------------- */
+
+.instagram-section {
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 100px 0px;
+}
+
+.instagram-flower {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+
+    margin: 0px 240px;
+}
+
+.instagram-flower img {
+    width: 265px;
+}
+
+
+/*---------------------------
+--------------------
+------------ login info------------------------
+------------------------
+---------------------- */
+.login-info {
+    margin: 100px 240px;
+    padding: 120px 250px;
+    text-align: center;
+    background-image: url(Rectangle\ 9.png);
+    border-radius: 8px;
+}
+
+.login-input {
+    padding: 20px 300px 20px 20px;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+/* ---------------------------------------------
+------------------------------------
+-------------------------------------footer section-------------------------------------------
+--------------------------------------
+------------------------------------------
+---------------------------- */
+
+footer {
+    background-color: #111010;
+    text-align: center;
+    padding: 150px 400px;
+
+}
+
+footer h3,
+p {
+    color: white;
+}
+
+.pink-color {
+    color: #E55473;
+}
+
+.white-color {
+    color: white;
 }
