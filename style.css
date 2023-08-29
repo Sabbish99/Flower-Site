@@ -108,6 +108,39 @@ header h1 {
 
 
 
+/*---------------------
+--------------------
+-------------- sales section----------------
+------------------
+------------ */
+.sales {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #e0e0e0;
+    padding: 80px 150px;
+    margin: 100px 240px;
+    border-radius: 10px;
+    gap: 30px;
+}
+
+.sales-1 {
+
+    padding: 50px 100px;
+
+}
+
+.sales-2 {
+
+    padding: 50px 100px;
+}
+
+.sales-3 {
+
+    padding: 50px 100px;
+}
+
 
 
 /*-----------------------
